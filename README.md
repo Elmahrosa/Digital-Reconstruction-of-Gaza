@@ -73,11 +73,8 @@ See [`LICENSE.md`](./LICENSE.md)
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See [`LICENSE.md`](./LICENSE.md) for details.
-
----
+📜 [Read the Scroll of Civic Resurrection](./CERTIFICATIONS.md)  
+It confirms our global legitimacy and civic protection.
 
 ## 🤝 Contribute
 
