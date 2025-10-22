@@ -5,7 +5,8 @@
 **Hosted by:** Elmahrosa International  
 **Powered by:** TEOS Egypt
 
----
+[![OneWorld Treasury Live on LinkedIn](https://img.shields.io/badge/Live%20on%20LinkedIn-OneWorld%20Treasury-blue)](https://www.linkedin.com/posts/teosegypt-elmahrosa_oneworld-ert-blockchainforgood-activity-7386837527544119298-_3at)
+
 
 ## 🌍 Why This Summit Matters
 
