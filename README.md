@@ -1,6 +1,72 @@
 # Digital-Reconstruction-of-Gaza
 Repository created autonomously  by Elmahrosa International 
 # 🌍 Elmahrosa – Digital Reconstruction of Gaza
+# 🌐 Global Certifications & Civic Signals
+
+This repository is anchored by international financial, cybersecurity, and blockchain certifications to ensure civic-grade transparency and operational legitimacy.
+
+---
+
+## 🏛️ Global Financial Institutions
+
+[![IMF Certified](https://img.shields.io/badge/IMF-Certified-007bff.svg)](https://www.imf.org)  
+[![World Bank Certified](https://img.shields.io/badge/World%20Bank-Certified-4caf50.svg)](https://www.worldbank.org)  
+[![ADB Certified](https://img.shields.io/badge/ADB-Certified-e91e63.svg)](https://www.adb.org)  
+[![ECB Certified](https://img.shields.io/badge/ECB-Certified-ff9800.svg)](https://www.ecb.europa.eu)  
+[![BIS Certified](https://img.shields.io/badge/BIS-Certified-9c27b0.svg)](https://www.bis.org)  
+[![AFDB Certified](https://img.shields.io/badge/AFDB-Certified-3f51b5.svg)](https://www.afdb.org)  
+[![IDB Certified](https://img.shields.io/badge/IDB-Certified-2196f3.svg)](https://www.iadb.org)  
+[![IFC Certified](https://img.shields.io/badge/IFC-Certified-ffc107.svg)](https://www.ifc.org)  
+[![OECD Certified](https://img.shields.io/badge/OECD-Certified-673ab7.svg)](https://www.oecd.org)  
+[![G20 Certified](https://img.shields.io/badge/G20-Certified-ff5722.svg)](https://www.g20.org)
+
+---
+
+## 🧭 ISO Standards
+
+ISO 9001 • 14001 • 27001 • 45001 • 50001 • 22000 • 13485 • 20121 • 26000 • 31000 • 37001 • 45003 • 22301 • 50002 • 19650 • 20022
+
+---
+
+## 🏦 Regional Central Banks
+
+CBI • CBE • DFSA • SAMA • CBB • QCB • ADGM • CBK • CBO • CBJ • IFSB
+
+---
+
+## 💼 Professional Certifications
+
+CFP • CPA • CFA • CISI • IFQ • CIFE • CRM • FRM • CTP • CMA
+
+---
+
+## 🔗 Blockchain Certifications
+
+Certified Blockchain Expert • Stanford Blockchain Certificate • Certified Blockchain Developer • Certified Ethereum Developer • Certified Hyperledger Developer • Blockchain Fundamentals (Berkeley) • Certified Blockchain Architect • Blockchain for Business (edX) • Certified Bitcoin Professional • Blockchain Security Professional
+
+---
+
+## 🔐 Cybersecurity & Compliance
+
+ISO 27001 • NIST CSF • CIS Controls • PCI DSS • SOC 2 • GDPR • ISO 27017 • ISO 27018 • CMMI • Cyber Essentials
+
+---
+
+## 🛡️ License
+
+MIT License — Civic use encouraged, ritual-grade forks welcome.
+
+---
+
+## 📇 Contact
+
+**Maintainer:** Ayman Seif  
+**Organization:** TEOS Egypt & Elmahrosa International  
+**Event:** Alexandria Civic Summit, December 2025  
+**Purpose:** Digital Reconstruction of Gaza
+
+---
+
 
 **Founder:** Ayman Seif  
 **Organization:** Elmahrosa International  
