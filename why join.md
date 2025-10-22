@@ -8,6 +8,7 @@ This is a civic-grade movement. Forks must uphold transparency and sovereignty.
 
 ## 📢 Why Join?
 We’re uniting the global crypto ecosystem to fund Gaza’s reconstruction with full transparency. Every contribution—whether in SOL, ETH, BTC, or memecoins—will be tracked on-chain, ensuring trust and impact. Plus, **Teos Egypt** is making this a *business play*:
+🧱 [View the Civic Ledger of Contributors](./CONTRIBUTORS.md)
 
 - **Earn $ERT Tokens:** For every contribution (crypto, dev work, or sponsorship), **Teos Egypt will match your input with an equivalent value in $ERT tokens**, our native reward token. Contribute big, earn big.
 - **Showcase Your Project:** Present your blockchain, DAO, or token at our hybrid conference (Dec 2025, Alexandria, Egypt).
