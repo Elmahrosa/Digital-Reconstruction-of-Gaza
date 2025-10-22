@@ -3,6 +3,8 @@ Before contributing, read the [Scroll of Civic Resurrection](./CERTIFICATIONS.md
 It confirms our global legitimacy and civic protection.
 
 **Crypto leaders, DAOs, and HODLers of ALL coins—Solana (SOL), Ethereum (ETH), Bitcoin (BTC), BNB Chain, Polygon, Cardano, Dogecoin, PEPE, SHIB, and Trump-inspired tokens ($TRUMP, MAGA, etc.)—this is your call to action.** The *Digital Reconstruction of Gaza* is a transformative initiative by **Elmahrosa International**, leveraging blockchain for transparent, on-chain funding to rebuild Gaza. Backed by **Teos Egypt**, this is a mission for impact *and* opportunity.
+All contributors must honor the [Elmahrosa Civic License](./LICENSE-CIVC.md)  
+This is a civic-grade movement. Forks must uphold transparency and sovereignty.
 
 ## 📢 Why Join?
 We’re uniting the global crypto ecosystem to fund Gaza’s reconstruction with full transparency. Every contribution—whether in SOL, ETH, BTC, or memecoins—will be tracked on-chain, ensuring trust and impact. Plus, **Teos Egypt** is making this a *business play*:
