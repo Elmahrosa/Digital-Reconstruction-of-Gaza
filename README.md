@@ -3,8 +3,9 @@ Repository created autonomously  by Elmahrosa International
 # 🌍 Elmahrosa – Digital Reconstruction of Gaza
 # 🌐 Global Certifications & Civic Signals
 📜 [The Scroll of Civic Resurrection](./CERTIFICATIONS.md)
-
+ 
 ## 📇 Contact
+[![Summit Invite](https://img.shields.io/badge/Alexandria%20Summit-December%202025-blue)](./SUMMIT_INVITE.md)
 
 **Maintainer:** Ayman Seif  
 **Organization:** TEOS Egypt & Elmahrosa International  
