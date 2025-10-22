@@ -1,4 +1,6 @@
 # 🌍 Join the Digital Reconstruction of Gaza: A Blockchain-Powered Movement
+Before contributing, read the [Scroll of Civic Resurrection](./CERTIFICATIONS.md).  
+It confirms our global legitimacy and civic protection.
 
 **Crypto leaders, DAOs, and HODLers of ALL coins—Solana (SOL), Ethereum (ETH), Bitcoin (BTC), BNB Chain, Polygon, Cardano, Dogecoin, PEPE, SHIB, and Trump-inspired tokens ($TRUMP, MAGA, etc.)—this is your call to action.** The *Digital Reconstruction of Gaza* is a transformative initiative by **Elmahrosa International**, leveraging blockchain for transparent, on-chain funding to rebuild Gaza. Backed by **Teos Egypt**, this is a mission for impact *and* opportunity.
 
