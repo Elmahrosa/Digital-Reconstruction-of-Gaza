@@ -1,5 +1,6 @@
 MIT License
-
+This technical license is complemented by the [Elmahrosa Civic License](./LICENSE-CIVC.md)  
+For civic-grade use, contributors must comply with both.
 Copyright (c) 2025 Elmahrosa International
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
