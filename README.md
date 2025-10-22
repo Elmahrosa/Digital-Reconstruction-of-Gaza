@@ -14,7 +14,32 @@ Repository created autonomously  by Elmahrosa International
 
 This repository powers the **OneWorld** app — a civic blockchain gateway for funding and tracking the digital reconstruction of Gaza. Built in Egypt, open to the global crypto industry, and anchored in transparency.
 
----
+## 📜 License
+
+This project is governed by a multi-layered license framework to ensure transparency, civic integrity, and open-source protection:
+
+### 🔧 Technical Code
+Licensed under the **GNU AGPL v3**  
+→ Ensures all network-based usage remains open-source  
+→ Protects backend, payment flows, and token logic  
+See [`LICENSE-AGPL.md`](./LICENSE-AGPL.md)
+
+### 📘 Documentation & Civic Content
+Licensed under **Creative Commons BY-SA 4.0**  
+→ Covers all text, petitions, banners, and civic rituals  
+→ Allows remixing with attribution and same-license sharing  
+See [`LICENSE-CC.md`](./LICENSE-CC.md)
+
+### 🛡️ Civic Protection
+Licensed under the **Elmahrosa Civic License v1.0**  
+→ Enforces petition signing, transparency, and ethical use  
+→ Blocks closed-source commercial exploitation  
+See [`LICENSE-CIVIC.md`](./LICENSE-CIVIC.md)
+
+### 🧪 Legacy Compatibility
+MIT License retained for compatibility with open-source tools  
+See [`LICENSE.md`](./LICENSE.md)
+
 
 ## 💡 Features
 
