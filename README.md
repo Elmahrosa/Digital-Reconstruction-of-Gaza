@@ -10,18 +10,13 @@ Repository created autonomously  by Elmahrosa International
 **Organization:** TEOS Egypt & Elmahrosa International  
 **Event:** Alexandria Civic Summit, December 2025  
 **Purpose:** Digital Reconstruction of Gaza
-
 ---
-
-
 **Founder:** Ayman Seif  
 **Organization:** Elmahrosa International  
 **Campaign:** OneWorld – Gaza’s First Civic Treasury  
 **Status:** Live (Testing Mode via Pi Network)  
 **Website:** [https://oneworld0316.pinet.com](https://oneworld0316.pinet.com)
-
 ---
-
 ## 🧭 Overview
 
 This repository powers the **OneWorld** app — a civic blockchain gateway for funding and tracking the digital reconstruction of Gaza. Built in Egypt, open to the global crypto industry, and anchored in transparency.
@@ -61,18 +56,14 @@ See [`LICENSE.md`](./LICENSE.md)
 - 💬 Arabic chatbot interface
 - 📈 Real-time token tracking
 - 🛡️ Public ledger for all contributions
-
 ---
-
 ## 🛠️ Tech Stack
 
 - Frontend: HTML/CSS/JS (Pi App Studio)
 - Backend: Firebase + Solana mint logic
 - Token: ERT (Elmahrosa Reserve Token)
 - Blockchain: Pi Network (Testnet), Solana
-
 ---
-
 📜 [Read the Scroll of Civic Resurrection](./CERTIFICATIONS.md)  
 It confirms our global legitimacy and civic protection.
 
@@ -80,15 +71,13 @@ It confirms our global legitimacy and civic protection.
 
 We welcome developers, civic builders, and crypto pioneers to fork, audit, and expand this treasury.  
 All contributions must respect the civic-first logic and public transparency.
-
 ---
-
 ## 📎 Social Channels
 
-- Telegram: [https://t.me/Elmahrosa](https://t.me/Elmahrosa)  
-- Twitter: [https://twitter.com/Elmahrosa](https://twitter.com/Elmahrosa)  
-- WhatsApp: [https://wa.me/message/ERTGaza](https://wa.me/message/ERTGaza)  
-- LinkedIn: [https://linkedin.com/in/Elmahrosa](https://linkedin.com/in/Elmahrosa)  
+- Telegram: [https://t.me/Elmahrosapi](https://t.me/Elmaahrosapi)  
+- Twitter: [https://twitter.com/king_teos](https://twitter.com/king_teos)  
+- WhatsApp: [[https://wa.me/message/ERTGaza](https://whatsapp.com/channel/0029VbAUAJ8JuyAHR4bjxa3X)]([https://wa.me/message/ERTGaza](https://whatsapp.com/channel/0029VbAUAJ8JuyAHR4bjxa3X))  
+- LinkedIn: [https://linkedin.com/in/aymanseif](https://linkedin.com/in/aymanseif)  
 - GitHub: [https://github.com/Elmahrosa](https://github.com/Elmahrosa)
 
 ---
