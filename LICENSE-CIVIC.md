@@ -1,5 +1,8 @@
 Elmahrosa Civic License v1.0
 
+This license is protected by the certifications listed in [CERTIFICATIONS.md](./CERTIFICATIONS.md).  
+Forks must honor the scroll and uphold civic-grade transparency.
+
 This project is open-source and designed to support the digital reconstruction of Gaza. You are permitted to use, modify, and distribute this project under the following conditions:
 
 1. You must sign the civic petition before modifying or publishing any part of this project.
