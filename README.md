@@ -1,5 +1,6 @@
 # Digital-Reconstruction-of-Gaza
-“Blockchain-based reconstruction blueprint for Gaza — geospatial planning, transparency, civic records, and humanitarian infrastructure.”
+“Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.”
+
 # 🌍 Elmahrosa – Digital Reconstruction of Gaza
 # 🌐 Global Certifications & Civic Signals
 📜 [The Scroll of Civic Resurrection](./CERTIFICATIONS.md)
