@@ -1,5 +1,5 @@
 # Digital-Reconstruction-of-Gaza
-Repository created autonomously  by Elmahrosa International 
+“Blockchain-based reconstruction blueprint for Gaza — geospatial planning, transparency, civic records, and humanitarian infrastructure.”
 # 🌍 Elmahrosa – Digital Reconstruction of Gaza
 # 🌐 Global Certifications & Civic Signals
 📜 [The Scroll of Civic Resurrection](./CERTIFICATIONS.md)
