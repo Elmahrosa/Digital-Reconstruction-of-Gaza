@@ -1,6 +1,6 @@
 # 🕊️ Alexandria Civic Summit — Global Onboarding Invitation
 
-**Date:** December 2025  
+**Date:** December 2026  
 **Location:** Alexandria, Egypt (Hybrid)  
 **Hosted by:** Elmahrosa International  
 **Powered by:** TEOS Egypt
